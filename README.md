@@ -2,36 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harsh-BH&color=blue)
 
-Welcome to my GitHub profile! I’m passionate about [your interests, e.g., software development, data science, AI, etc.]. I love working on [describe your projects or areas of interest].
+Welcome to my GitHub profile! I’m passionate about software development, data science, AI. I am a dedicated tech enthusiast with a keen interest in exploring and understanding emerging trends.
 
-## 🔭 What I'm currently working on
-
-- **Project 1**: A brief description of your project
-- **Project 2**: Another project you are working on
-- **Open Source Contributions**: Describe any open-source work you're involved in
-
-## 🌱 What I'm currently learning
-
-- **Technology 1**: Why you’re learning it
-- **Technology 2**: Another technology or tool you’re currently learning
-
-## 💬 Ask me about
-
-Feel free to ask me about:
-
-- **Topic 1**
-- **Topic 2**
-- **Topic 3**
 
 ## 📫 How to reach me
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
-## ⚡ Fun fact
-
-Did you know that [a fun fact about yourself]?
+- **Email**: harsh.aby.007@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/harsh-bhatt-114a2a293/
+- **Kaggle**: https://www.kaggle.com/iharshbhatt
 
 ## 📊 GitHub Stats
 
@@ -43,17 +21,6 @@ Did you know that [a fun fact about yourself]?
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Harsh-BH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🚀 My Projects
-
-### Project 1
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Harsh=BH&repo=project1&theme=radical)
-
-A brief description of your project.
-
-### Project 2
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Harsh-BH&repo=project2&theme=radical)
-
-Another project description.
 
 ## 🛠️ My Tech Stack
 
@@ -77,9 +44,10 @@ Another project description.
 
 ## 🤝 Connect with me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+
+- **Email**: harsh.aby.007@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/harsh-bhatt-114a2a293/
+- **Kaggle**: https://www.kaggle.com/iharshbhatt
 
 ---
 
