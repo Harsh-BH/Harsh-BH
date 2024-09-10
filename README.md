@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m passionate about software development, data 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-BH&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh=BH&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-BH&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
