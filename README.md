@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I’m passionate about software development, data 
 
 <img align='left' src='https://media4.giphy.com/media/nvF0FhO4z75KtaeTzu/source.gif' width='300'>
 <img align='left' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_632/7e6cd531454459.5651798c7a764.gif' width='300'>
-<img align='left' src='https://openseauserdata.com/files/9cdba031dccf637a6777fa4e12ec03c1.gif' width='300' height='300'>
+<img align='left' src='https://openseauserdata.com/files/9cdba031dccf637a6777fa4e12ec03c1.gif' width='250' height='300'>
 
 
 
