@@ -1,79 +1,76 @@
-# Hi there, I'm [Harsh Bhatt] 👋
+```zsh
+> neofetch
+```
 
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh-BH&color=blue)
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" width="320"/>
 
-Welcome to my GitHub profile! I’m passionate about software development, data science, AI. I am a dedicated tech enthusiast with a keen interest in exploring and understanding emerging trends.
+```csharp
+Harsh-BH@github
+-------------------------
+OS: Arch Linux x86_64
+Host: IIT Kharagpur
+Shell: zsh 5.9
+Role: Software Developer & AI Researcher
+Languages: Python, C++, JavaScript,
+           TypeScript, Solidity
+Frameworks: React, Next.js, FastAPI
+ML Stack: PyTorch, TensorFlow
+Databases: PostgreSQL, MongoDB
+Tools: Docker, Git, AWS
+Focus: System Design, AI Agents,
+       Competitive Programming
+Status: Building scalable systems
+```
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<br clear="both"/>
 
-<img align='left' src='https://media0.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.webp?cid=790b76112vrlx6gbduyd9c3gmib69pd35lsbudj9f8rf36rp&ep=v1_gifs_search&rid=giphy.webp&ct=g' width='300'>
-
-
-
-
-
-## 📫 How to reach me
-
-- **Email**: harsh.aby.007@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/harsh-bhatt-114a2a293/
-- **Kaggle**: https://www.kaggle.com/iharshbhatt
-  
-
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-BH&show_icons=true&theme=radical)
-<img align='right' src='https://media1.giphy.com/media/OkoScrMcY324r1j1HZ/source.gif' width='300'>
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-BH&layout=compact&theme=radical)
-
-
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harsh-BH&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-## 🛠️ My Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://vitejs.dev/logo.svg" width="40" height="40" alt="Vite Logo" title="Vite"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harsh-BH&color=7aa2f7&style=flat-square"/>
 </p>
-## 🤝 Connect with me
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh-BH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-BH&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-- **Email**: harsh.aby.007@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/harsh-bhatt-114a2a293/
-- **Kaggle**: https://www.kaggle.com/iharshbhatt
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-BH&theme=tokyonight&hide_border=true"/>
+</p>
 
----
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-BH&theme=tokyo-night&hide_border=true"/>
+</p>
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+<p align="center">
+<img src="https://ghchart.rshah.org/7aa2f7/Harsh-BH"/>
+</p>
 
-<img align='left' src='https://media4.giphy.com/media/nvF0FhO4z75KtaeTzu/source.gif' width='300'>
-<img align='left' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_632/7e6cd531454459.5651798c7a764.gif' width='300'>
-<img align='left' src='https://openseauserdata.com/files/9cdba031dccf637a6777fa4e12ec03c1.gif' width='230' height='300'>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Harsh-BH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-BH&theme=tokyonight"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harsh-BH&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harsh-BH&theme=tokyonight"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harsh-BH&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harsh-BH&theme=tokyonight&utcOffset=5.5"/>
+</p>
 
-
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/harsh-bhatt-114a2a293/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:harsh.aby.007@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.kaggle.com/iharshbhatt">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+</p>
