@@ -9,29 +9,38 @@ Harsh-BH@github
 -------------------------
 OS: Arch Linux x86_64
 Host: IIT Kharagpur
+Kernel: 6.x
+Uptime: 3+ years of building
 Shell: zsh 5.9
-Role: Software Developer & AI Researcher
-Languages: Python, C++, JavaScript,
-           TypeScript, Solidity
-Frameworks: React, Next.js, FastAPI
-ML Stack: PyTorch, TensorFlow
-Databases: PostgreSQL, MongoDB
-Tools: Docker, Git, AWS
-Focus: System Design, AI Agents,
-       Competitive Programming
-Status: Building scalable systems
+Editor: Neovim / VS Code
+WM: bspwm / Hyprland
+
+Role: Software Developer | AI Researcher
+Domain: Web3 • AI Systems • Distributed Infra
+
+Languages:
+  Python • C++ • C • JavaScript
+  TypeScript • Solidity • Bash
+
+ML Stack:
+  PyTorch • TensorFlow
+  Scikit-Learn • Pandas
+  LLM Fine-tuning • RAG Systems
+
+Databases:
+  PostgreSQL • MongoDB
+  Redis • Vector DBs (Qdrant)
+
+Cloud & DevOps:
+  Docker • Kubernetes • AWS
+  CI/CD • Nginx • Linux Internals
+
 ```
 
 <br clear="both"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harsh-BH&color=7aa2f7&style=flat-square"/>
-</p>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh-BH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-BH&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-BH&theme=tokyonight&hide_border=true"/>
@@ -41,13 +50,7 @@ Status: Building scalable systems
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-BH&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://ghchart.rshah.org/7aa2f7/Harsh-BH"/>
-</p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harsh-BH&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
-</p>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-BH&theme=tokyonight"/>
